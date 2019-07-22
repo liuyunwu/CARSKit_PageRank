@@ -1,0 +1,10 @@
+Time=NA
+Time=Weekday
+Time=Weekend
+Location=NA
+Location=Cinema
+Location=Home
+Companion=NA
+Companion=Alone
+Companion=Family
+Companion=Partner

@@ -1,0 +1,5 @@
+WorkingPath: D:\Università\TESI\Travel_TripAdvisor_v1\CARSKit.Workspace\
+Your original rating data path: D:\Università\TESI\Travel_TripAdvisor_v1\Data_TripAdvisor_v1.txt
+Current working path: D:\Università\TESI\Travel_TripAdvisor_v1\CARSKit.Workspace\
+Dataset: ...isor_v1\CARSKit.Workspace\train.csv
+DataPath: D:\Università\TESI\Travel_TripAdvisor_v1\CARSKit.Workspace\train.csv
